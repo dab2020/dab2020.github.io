@@ -33,7 +33,7 @@
           imageLink: t(49),
           imageSize: 375,
           message:
-            "My name is Dayyan Abdullah; A avid Tech enthusiast. I am passionate about technology and in my free time, build open source software for the world to use. I'm most passionate about giving back to the community. Intrests include Selfhosting and generally anything tech related.",
+            "My name is Dayyan Abdullah. I am passionate about technology and in my free time, build open source software for the world to use. I'm most passionate about giving back to the community. Intrests include Selfhosting and generally anything tech related.",
         },
         d = {
           show: !0,
@@ -669,10 +669,10 @@
                 {
                   className: "badge badge-dark",
                   rel: "noopener",
-                  href: "https://github.com/hashirshoaeb",
+                  href: "https://github.com/dab2020",
                   "aria-label": "My GitHub",
                 },
-                "Hashir Shoaib"
+                "Dayyan Abdullah"
               ),
               " ",
               "using ",
