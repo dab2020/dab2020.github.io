@@ -23,7 +23,7 @@
             { image: "fa-github", url: "https://github.com/dab2020" },
             {
               image: "fa-youtube",
-              url: "404.html",
+              url: "https://www.youtube.com/channel/UCl98RXE_wrY3l3T2IS-Cf4A/featured",
             },
           ],
         },
